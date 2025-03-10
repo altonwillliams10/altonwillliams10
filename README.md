@@ -1,4 +1,4 @@
-<h1>Hi, I'm Alton, an <a href="https://linkedin.com/in/alton-williams-8b8138329/">IT Professional</a>☺</h1>
+<h1>Hi, I'm Alton, an <a href="https://linkedin.com/in/alton-williams10/">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
